@@ -1,3 +1,5 @@
+//add new feature - button
+
 let btn = document.querySelector("button");
 let ul =document.querySelector("ul");
 let inp = document.querySelector("input");
